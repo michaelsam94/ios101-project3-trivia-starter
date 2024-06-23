@@ -1,6 +1,6 @@
 # Project 3 - *Trivia App*
 
-Submitted by: **Michael Samule**
+Submitted by: **Michael Samuel**
 
 **Trivia App** is an app show question with 4 options consist of 3 question show the result for every three questions sovled 
 
